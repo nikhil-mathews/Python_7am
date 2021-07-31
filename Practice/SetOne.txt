@@ -1,0 +1,16 @@
+Question 1 :- Write Your name surrounding with star
+
+*****
+*RAM*
+*****
+
+Question 2 :- Print Given Pattern
+
+    1
+   121
+  12321
+ 1234321
+123454321
+
+Important :- Regular Exercise
+	Make the error code and observe the Interpreter error messages.

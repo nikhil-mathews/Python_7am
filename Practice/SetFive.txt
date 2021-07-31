@@ -1,0 +1,63 @@
+Question 1 :-
+
+Print First 20 Even Number Series
+2   4   6	8	10	12 ...s
+
+Question 2 :-
+
+Input Any Number ( range)  and Display Even Number SEries till that number
+For e.g.
+Input :- 10
+
+Output :- 
+2  4  6  8  10  
+
+Question 3:-
+
+Input Any Number and Display First that numberth Even Number Series
+For e,g,
+7
+
+2    4    6    8    10     12    14  
+
+Question 4 :-
+
+Generate First 15 Fibonacci SEries Elements
+
+0  1  1   2   3   5   8   13  21   34    55   .....
+
+Question 5:-
+
+Genereate First 15 Thibonacci Series Elements
+
+0   1    1    2    4   7    13     24 ....
+
+Question 6 :-
+
+Input any Number and calculate its Factorial
+!5 = 5 * 4 * 3 * 2 * 1
+
+
+Question 7 :- 
+
+Input two number and calculate their HCF and LCM
+
+
+Question 8 :-
+
+Print Given Series 20 Elements
+
+0	3	8	15	24	35....
+
+Question 9 :-
+
+Input Any Number and display its table
+
+2
+
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+...
+2 * 10 = 20
+

@@ -1,0 +1,78 @@
+ Question 1 :- 
+
+	Input any number and check it is magic or not.
+
+	What is a magic number?
+	Example: 1729
+
+	Find the sum of digits of the given number.
+	(1 + 7 + 2 + 9 => 19)
+	Reverse of digit sum output.  Reverse of 19 is 91
+	Find the product of digit sum and the reverse of digit sum.
+	(19 X 91 = 1729)
+	If the product value and the given input are same, 
+	then the given number is a magic number.(19 X 91 <=> 1729)
+	So, 1729 is a magic number.
+
+Question 2 :- 
+
+	Input any Number and Find Out its sum of digit except 
+	first and last. 
+	12345
+
+	2 + 3 + 4 = 9
+
+Question 3 :-
+
+	Input any Number and Find Out its sum of first digit and 
+	last digit.
+	12345
+
+	1 + 5 = 6
+
+Question 4 :-
+
+	Input any number and check it is cool or not Number is cool
+	if sum of first and last digit is equal to sum of digit 
+	except first and last. 
+
+	12113
+	1 + 3 = 2 + 1 + 1
+
+Question 5:-
+
+	Input any Number and check it is prime or not
+
+Question 6:-
+
+	Input any Number and display its prime factor.
+	24
+
+	2 2 2 3
+
+Question 7:-
+
+	Input Any Number and check it is palindrome or not
+
+	1441
+
+	Its Reverse is 1441 and it is equal to the number.
+	Such Number is Called Palindrome
+
+
+Question 8 :-
+
+	Input Any Number and display sum of its digit but 
+	according to given format.
+
+	1456
+
+	Output :- [ 1 + 4 + 5 + 6 = 16 ]
+
+Question 9 :-
+
+	Input Any Number and add 1 to its digit.
+
+	Input :- 12391
+
+	Output :- 23402
