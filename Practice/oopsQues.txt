@@ -1,0 +1,6 @@
+Create a class programmer for storing information of few programeers working in XYZ company
+
+Write a class calculator capable of finding square, cube of a number
+
+create a class with a class attribute 'a', create an obect from it and set 'a'  directly using object
+a=0. Does this change class attribute? 
