@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %} | list {% endblock %}
+
+{% block content %}
+    {% for a in object_list %}
+        <div class="container">
+            <a href=""><h2>{{a.title}}</h2></a>
+            <p>{{a.desc}}</p>
+            <blockquote>{{a.author}}</blockquote>
+        </div>
+    {% endfor %}
+
+{% endblock %}
