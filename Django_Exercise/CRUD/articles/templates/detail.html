@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>{{superman.title}}</h2>
+    <p><i>{{superman.desc}}</i></p>
+    <h3><a href="{% url 'article-edit' superman.pk %}">Edit this post</a></h3>
+    <h3><a href="{% url 'article-delete' superman.pk %}">delete this post</a></h3>
+{% endblock %}
